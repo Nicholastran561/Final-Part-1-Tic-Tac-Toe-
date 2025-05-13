@@ -10,17 +10,6 @@ PART2) Modify the game creating a menu that allows the player to choose 1 player
 
 PART3) Create another option to TIC-TAC-TOE that allows players to automate play. Additionally, create a C program that will mimic the player playing.  Note the game selection starts on your laptop but the game is running on the ESP32 and Player 1 is a C program and Player 2 is a bash script. Both Player 1 and Player 2 should be running on the GCP server but the game is viewable on the laptop.
 
-WHAT TO SUBMIT:
-
-A doc or pdf that should include:
-
-1) Your github link - everything should be included in this repo
-
-2) Printout of source code for Tic-Toc-Toe
-
-3) Printout of script that automates player 2 if human does not play
-
-3) Printout of C program that automates a player in automated mode
 
 ## ESP32 (Our Game console)
 
